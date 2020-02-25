@@ -1,0 +1,13 @@
+{
+  "name": "need-babel__template-when-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ojisan-toybox/need-babel__template-when-ts.git",
+  "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.22",
+    "@types/react-dom": "^16.9.5",
+    "typescript": "^3.8.2"
+  }
+}
