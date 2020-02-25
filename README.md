@@ -19,3 +19,7 @@ Found 1 error.
 error Command failed with exit code 2.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
+
+TODO
+
+- [ ] typeRoot 指定で Set の型宣言したらごまかせるか？
